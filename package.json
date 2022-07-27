@@ -1,0 +1,16 @@
+{
+  "name": "janjijiwa_scrap",
+  "version": "0.0.1",
+  "description": "project ambil data komentar Twitter @janjijiwaid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Banu Tri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer-extra": "^3.3.4",
+    "sentiment": "^5.0.2"
+  }
+}
